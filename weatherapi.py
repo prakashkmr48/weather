@@ -187,7 +187,5 @@ def main():
 # Display the documentation when a button is clicked
     if st.button("Show API Documentation"):
         st.markdown(weather_api_documentation)
-
-
 if __name__ == "__main__":
     main()

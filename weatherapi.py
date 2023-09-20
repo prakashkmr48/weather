@@ -165,7 +165,7 @@ if __name__ == "__main__":
 ## Conclusion
 
 The Weather Data API allows you to access real-time weather data for a specified city. By following the guidelines provided in this documentation, you can integrate weather information into your applications or services with ease.
-
+"""
 def main():
     st.title("Weather App")
 

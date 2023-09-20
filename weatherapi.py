@@ -40,16 +40,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-  
-api_documentation = """
-# Weather Data API Documentation
-
-## Introduction
-
-The Weather Data API provides real-time weather information for a given location. It leverages the OpenWeatherMap API to fetch weather data based on the provided city name. This documentation outlines how to use the API, its endpoints, and the expected response.
-
-## Getting Started
-
-### Base URL
-
-The base URL for accessing the Weather Data API is:
